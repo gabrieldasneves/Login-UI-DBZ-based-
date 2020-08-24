@@ -29,4 +29,4 @@ It is going to show:
 
 
 
- © [Gabriel das Neves](https://gabrieldasneves.github.io/)
+ © [Gabriel das Neves](https://github.com/gabrieldasneves/Login-UI-DBZ-based-/blob/master/src/assets/dbzui.jpg)
