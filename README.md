@@ -1,4 +1,4 @@
-# chatterbot_python
+# Dragon Ball Z based UI 
 Project that aims to develop an cool interface to practice.
 
 ## Technologies:
