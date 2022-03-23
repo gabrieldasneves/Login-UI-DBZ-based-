@@ -27,7 +27,7 @@ It is going to generate a QR code. You must scan it with the Expo App
 It is going to show:
 
 
-![https://github.com/gabrieldasneves/Login-UI-DBZ-based-/blob/master/src/assets/dbzui.jpg]( https://github.com/gabrieldasneves/Login-UI-DBZ-based-/blob/master/src/assets/dbzui.jpg )
+![https://raw.githubusercontent.com/gabrieldasneves/Login-UI-DBZ-based-/master/dbzui.jpg]( https://raw.githubusercontent.com/gabrieldasneves/Login-UI-DBZ-based-/master/dbzui.jpg )
 
 
 
